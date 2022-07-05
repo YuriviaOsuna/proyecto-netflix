@@ -1,0 +1,63 @@
+.formulario {
+    width: 1vw;
+    height: 50vh;
+    color: white;
+    position: relative;
+    width: 52%;
+    padding: 75px 0;
+    max-width: 450px;
+    margin: 0 auto;
+    text-align: center;
+    z-index: 1;
+    padding-top: 10%;
+    background-color: black;
+    background-color: rgba(6, 1, 1, 0.824);
+}
+
+.h1iniciasesion {
+    color: #fff;
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 28px;
+    margin: 0 0 10px 0;
+    padding: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+input {
+    background-color: rgba(98, 96, 96, 0.824);
+    color: #fff;
+}
+
+.Emailotelefono {
+    width: 18vw;
+    height: 5vh;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.contra {
+    width: 18vw;
+    height: 5vh;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+
+.botondos {
+    width: 18vw;
+    height: 5vh;
+    background-color: red;
+    color: white;
+    border-radius: 8px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+
+.check{
+    margin-right: 120px;
+}
+
+.ayuda{
+    color: white;
+}

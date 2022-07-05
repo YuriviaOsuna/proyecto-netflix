@@ -1,0 +1,144 @@
+body {
+    margin: 0;
+    background-image: url(src/primerFondo.jpg);
+}
+
+.PrimerDiv {
+    margin: 0;
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.DivPrincipal {
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    margin-left: 20px;
+
+
+}
+
+.DivIzquierda {
+    width: 100vw;
+    height: 5vw;
+    margin-top: 40px;
+    margin-right: -350px;
+}
+
+.ImagenNet {
+    width: 10vw;
+    height: 3vw;
+    margin: 2%;
+}
+
+.DivDerecha {
+    width: 100vw;
+    height: 5vw;
+    display: inline-block;
+    margin-left: 1000px;
+    margin: 2;
+    margin-top: 10px;
+}
+
+ul {
+    width: 10vw;
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    text-align: right;
+}
+
+li {
+    margin: 15px;
+}
+
+.select {
+    font: inherit;
+    padding: 8px 22px;
+    background: rgba(0, 0, 0, .4);
+    border: 1px solid #aaa;
+    color: #fff;
+    font-size: .875rem;
+}
+
+.boton {
+    background-color: red;
+    color: white;
+    padding: 7px 17px;
+    border-radius: 3px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+
+
+.centro {
+
+    color: white;
+    position: relative;
+    width: 52%;
+    padding: 75px 0;
+    max-width: 950px;
+    margin: 0 auto;
+    text-align: center;
+    z-index: 1;
+}
+
+h1 {
+    font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 3.125rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+
+}
+
+h3 {
+    font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    max-width: 450px;
+    margin: 0 auto;
+    font-weight: 400;
+}
+
+
+.correo {
+    background-color: white;
+    width: 25vw;
+    height: 6vh;
+    font-size: 16px;
+}
+
+.empezar {
+    background-color: red;
+    color: white;
+    padding: 20px 25px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+
+.primerapartado {
+    background-color: grey;
+    background-color: rgba(114, 111, 111, 0.824);
+    width: 100vw;
+    height: 1vh;
+}
+
+.segundoApartado {
+    background-color: black;
+    width: 100vw;
+    height: 50vh;
+    opacity: 0.9;
+    position: absolute;
+
+}
+
+.apartado2 {
+    color: white;
+    text-align: left;
+    padding-bottom: 15px;
+}

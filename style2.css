@@ -1,0 +1,51 @@
+.DivUsuarios {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background-color: black;
+    display: block;
+}
+
+.padre {
+    text-align: center;
+}
+
+.padre img {
+    width: 20vw;
+    height: 25vh;
+}
+
+.user {
+    color: white;
+}
+
+.hijo {
+    margin-top: 3vw;
+    background-color: white;
+    width: 20vw;
+    height: 25vh;
+    border: black;
+    display: inline-block;
+    background-color: pink;
+}
+
+.padredos {
+    text-align: center;
+
+}
+
+.hijodos {
+    width: 20vw;
+    height: 5vh;
+    border: black;
+    display: inline-block;
+}
+
+.padredos img {
+    width: 20vw;
+    height: 5vh;
+}
+
+.nombres {
+    color: white;
+}
